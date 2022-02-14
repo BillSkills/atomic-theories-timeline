@@ -1,1 +1,1 @@
-# atomic-theories-timeline
+# Atomic Theories Timeline
