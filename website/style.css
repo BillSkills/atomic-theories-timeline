@@ -33,5 +33,9 @@ p {
 }
 
 .grid-item{
+  background-color: #0f0f0f;
+}
 
+.grid-item:hover {
+  background-color: gray;
 }
