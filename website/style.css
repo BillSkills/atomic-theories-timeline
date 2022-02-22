@@ -26,3 +26,12 @@ p {
   font-size: 20px;
   color: lightgray;
 }
+
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.grid-item{
+
+}
