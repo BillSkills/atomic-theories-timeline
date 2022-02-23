@@ -27,12 +27,12 @@ p {
   color: lightgray;
 }
 
-.grid-container{
+.grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
 }
 
-.grid-item{
+.grid-item {
   background-color: #0f0f0f;
 }
 
