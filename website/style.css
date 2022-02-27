@@ -25,6 +25,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   color: lightgray;
+  margin: 50px;
 }
 
 .grid-item {
@@ -33,4 +34,12 @@ p {
 
 .grid-item:hover {
   background-color: gray;
+}
+
+img {
+  height: 500px;
+}
+
+.grid-item img {
+  height: 300px;
 }
