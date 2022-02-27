@@ -1,58 +1,57 @@
 body {
-    color: white;
-    background-color: #0f0f0f;
-    text-align: center;
-    margin: 10px;
-  }
+  color: white;
+  background-color: #0f0f0f;
+  text-align: center;
+  margin: 10px;
+}
 
-  h1 {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    font-size: 70px;
-  }
+/* Text */
 
-  h2 {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    font-size: 25px;
-    color: lightgray;
-  }
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 70px;
+}
 
-  h3 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: x-large;
-  }
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  color: lightgray;
+}
 
-  h4 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: larger;
-  }
-  p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    color: lightgray;
-    margin: 50px;
-    margin-left: 100px;
-    margin-right: 100px;
-  }
-  
-  .grid-item {
-    background-color: #0f0f0f;
-  }
-  
-  .grid-item:hover {
-    background-color: gray;
-  }
-  
-  img {
-    height: 500px;
-  }
-  
-  .grid-item img {
-    height: 300px;
-  } 
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+}
 
-  .numbered-list p {
-    margin: 0px;
-    margin-left: 50px;
-    margin-right: 50px;
-    text-align: left;
-  }
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: lightgray;
+  margin: 50px;
+}
+
+/* Timeline items */
+.timeline-item {
+  background-color: #0f0f0f;
+}
+
+.timeline-item:hover {
+  background-color: gray;
+}
+
+.timeline-item a {
+  color: aqua;
+}
+
+/* Images */
+img {
+  height: 500px;
+}
+
+.timeline-item img {
+  height: 300px;
+}
