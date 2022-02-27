@@ -1,33 +1,19 @@
-A&E Television Networks. (2014, April 1). J.J. Thomson. Biography.com. Retrieved February 26, 2022, from https://www.biography.com/scientist/jj-thomson
-
-A&E Television Networks. (2014, April 2). Erwin Schrödinger. Biography.com. Retrieved February 27, 2022, from https://www.biography.com/scientist/erwin-schrdinger
-
-A&E Television Networks. (2014, April 2). John Dalton. Biography.com. Retrieved February 26, 2022, from https://www.biography.com/scientist/john-dalton
-
-Badash, L. (2021, October 15). Ernest Rutherford. Encyclopædia Britannica. Retrieved February 26, 2022, from https://www.britannica.com/biography/Ernest-Rutherford
-
-Bernstein, J. (2022, January 1). Erwin Schrödinger. Encyclopædia Britannica. Retrieved February 27, 2022, from https://www.britannica.com/biography/Erwin-Schrodinger
-
+Democritus
 Berryman, S. (2016, December 2). Democritus. Stanford Encyclopedia of Philosophy. Retrieved February 26, 2022, from https://plato.stanford.edu/entries/democritus/
-
-Chadwick, J. (1932). The existence of a Neutron. Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, 136(830), 692–708. https://doi.org/10.1098/rspa.1932.0112
-
 Duignan, B. (2021, February 19). Democritus. Encyclopædia Britannica. Retrieved February 26, 2022, from https://www.britannica.com/biography/Democritus
-
-Ernest Rutherford. Atomic Heritage Foundation. (2019). Retrieved February 26, 2022, from https://www.atomicheritage.org/profile/ernest-rutherford
-
-John Dalton. Science History Institute. (2017, December 4). Retrieved February 26, 2022, from https://www.sciencehistory.org/historical-profile/john-dalton
-
-MacKinnon, E. (1977). Heisenberg, Models, and the Rise of Matrix Mechanics. Historical Studies in the Physical Sciences, 8, 137–188. https://doi.org/10.2307/27757370
-
 Mark, J. J. (2021, May 22). Democritus. World History Encyclopedia. Retrieved February 26, 2022, from https://www.worldhistory.org/Democritus/
 
-Nobel Prize Outreach AB 2022. (2022). Ernest Rutherford - Biographical. NobelPrize.org. Retrieved February 26, 2022, from https://www.nobelprize.org/prizes/chemistry/1908/rutherford/biographical/
-
-Nobel Prize Outreach AB 2022. (2022). Erwin Schrödinger - Biographical. NobelPrize.org. Retrieved February 27, 2022, from https://www.nobelprize.org/prizes/physics/1933/schrodinger/biographical/
-
-Nobel Prize Outreach AB 2022. (2022). J. J. Thomson - Biographical. NobelPrize.org. Retrieved February 26, 2022, from https://www.nobelprize.org/prizes/physics/1906/thomson/biographical/
-
+Dalton
+A&E Television Networks. (2014, April 2). John Dalton. Biography.com. Retrieved February 26, 2022, from https://www.biography.com/scientist/john-dalton 
+John Dalton. Science History Institute. (2017, December 4). Retrieved February 26, 2022, from https://www.sciencehistory.org/historical-profile/john-dalton 
 Ross, S. (2021, July 23). John Dalton. Encyclopædia Britannica. Retrieved February 26, 2022, from https://www.britannica.com/biography/John-Dalton
 
+Thomson
+A&E Television Networks. (2014, April 1). J.J. Thomson. Biography.com. Retrieved February 26, 2022, from https://www.biography.com/scientist/jj-thomson
+Nobel Prize Outreach AB 2022. (2022). J. J. Thomson - Biographical. NobelPrize.org. Retrieved February 26, 2022, from https://www.nobelprize.org/prizes/physics/1906/thomson/biographical/
 Thomson, G. P. (2021, December 14). J.J. Thomson. Encyclopædia Britannica. Retrieved February 26, 2022, from https://www.britannica.com/biography/J-J-Thomson
+
+Rutherford
+Badash, L. (2021, October 15). Ernest Rutherford. Encyclopædia Britannica. Retrieved February 26, 2022, from https://www.britannica.com/biography/Ernest-Rutherford
+Ernest Rutherford. Atomic Heritage Foundation. (2019). Retrieved February 26, 2022, from https://www.atomicheritage.org/profile/ernest-rutherford 
+Nobel Prize Outreach AB 2022. (2022). Ernest Rutherford - Biographical. NobelPrize.org. Retrieved February 26, 2022, from https://www.nobelprize.org/prizes/chemistry/1908/rutherford/biographical/
