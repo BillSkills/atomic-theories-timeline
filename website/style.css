@@ -1,21 +1,23 @@
 body {
-  color: white;
   background-color: #0f0f0f;
   text-align: center;
-  margin: 10px;
+  color: white;
 }
 
-/* TEXT STYLING - START */
+/* TEXT STYLING */
 
 h1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 70px;
+  margin-top: 80px;
 }
 
 h2 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 25px;
+  font-size: 30px;
   color: lightgray;
+  margin-top: -20px;
+  margin-bottom: 40px;
 }
 
 h3 {
@@ -27,6 +29,7 @@ h4 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: larger;
 }
+
 p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
@@ -34,30 +37,60 @@ p {
   margin: 50px;
 }
 
-.numbered-list p {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  text-align: justify;
-}
-
-/* unvisited link */
-a:link {
+a {
+  text-decoration: none;
   color: red;
 }
 
-/* visited link */
-a:visited {
-  color: purple;
-}
-
-/* mouse over link */
 a:hover {
-  color: blue;
+  text-decoration: underline;
 }
 
-/* TEXT STYLING - END */
+/* SUBPAGE CONTENT STYLING */
 
-/* TIMELINE STYLING - START*/
+.subpage_content {
+  max-width: 1000px;
+}
+
+.subpage_content img {
+  max-width: 500px;
+}
+
+/* NAVBAR STYLING */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #292929;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 69;
+}
+
+li {
+  float: left;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: red;
+  text-decoration: none;
+}
+
+/* TIMELINE STYLING */
 
 * {
   box-sizing: border-box;
@@ -66,7 +99,7 @@ a:hover {
 /* The actual timeline (the vertical ruler) */
 .timeline {
   position: relative;
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -75,7 +108,7 @@ a:hover {
   content: "";
   position: absolute;
   width: 6px;
-  background-color: darkgray;
+  background-color: lightgray;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -98,7 +131,7 @@ a:hover {
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #000000;
+  border: 4px solid red;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -157,8 +190,13 @@ a:hover {
 
 .content img {
   max-width: 100%;
-  height: auto;
   border-radius: 6px;
+}
+
+.content h2 {
+  color: #0f0f0f;
+  font-size: 50px;
+  margin: 10px;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
@@ -194,5 +232,3 @@ a:hover {
     left: 0%;
   }
 }
-
-/* TIMELINE STYLING - END */
