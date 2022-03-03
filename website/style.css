@@ -4,6 +4,10 @@ body {
   color: white;
 }
 
+#author {
+  text-align: center;
+}
+
 /* TEXT STYLING */
 
 h1 {
@@ -66,14 +70,15 @@ a:hover {
   line-height: 1.5;
 }
 
-.subpage_content h3 {
-  margin: -10px 0 -30px 0;
-}
-
 .subpage_content img {
   max-width: 50%;
   border-radius: 6px;
   margin-bottom: -20px;
+}
+
+.contributions {
+  margin-top: -10px;
+  padding: 5px;
 }
 
 /* NAVBAR STYLING */
