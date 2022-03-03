@@ -1,0 +1,11 @@
+find good images for the work/experiments that your four guys did (prob equations or diagrams or something) and put them in the /media/experiments folder as .png files
+
+cite the images, paste the citations in the references.html file at the very bottom (follow the format I used)
+
+go to the following files:
+    de_broglie.html, schrodinger.html, heisenberg.html, chadwick.html
+
+scroll down to <!-- DO THIS -->
+    make the <img> tag point to the image you put in the folder
+    put in a title attribute for the image
+    remove the <!-- DO THIS --> comment
